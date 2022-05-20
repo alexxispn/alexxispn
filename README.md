@@ -3,15 +3,19 @@
 </br>
 
 [![Alexis Linkedin](src/linkedin.png)][linkedin]
-<div>
+<table align="right">
+<tr>
+<td>
 
-[<img align="right" alt="@alexxispn | Linkedin" width="17px" src="./src/icono_linkedin.png" />][linkedin]
-[<img align="right" alt="@alexxispn| Twitter" width="22px" src="./src/icono_twitter.png" />][twitter]
-[<img align="right" alt="@alexxispn | Instagram" width="22px" src="./src/icono_instagram.png" />][instagram]
-[<img align="right" alt="alexxispn | Facebook" width="22px" src="./src/icono_facebook.png" />][facebook]
+[<img align="left" style='margin:2.1px 0 0 22px' alt="@alexxispn | Linkedin" width="17px" src="./src/icono_linkedin.png" />][linkedin]
+[<img align="left" alt="@alexxispn| Twitter" width="22px" src="./src/icono_twitter.png" />][twitter]
+[<img align="left" alt="@alexxispn | Instagram" width="22px" src="./src/icono_instagram.png" />][instagram]
+[<img align="left" alt="alexxispn | Facebook" width="22px" src="./src/icono_facebook.png" />][facebook]
 
 
-</div>
+</td>
+</tr>
+</table>
 
 <details>
   <summary style='color: #34F8CF'>:zap: About me!</summary>
@@ -25,50 +29,59 @@
 <br />
 
 ---
-<section style="display:grid; justify-items:center">
-<h3 style='color:#7434F8' ><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Project</h3>
+
+<h3 align="center" style='color:#7434F8' ><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Project</h3>
 <br>
-<img alt="Kompi Web" width="700px"  src="./src/kompi.png">
-<div style=" display:grid; justify-content:space-between; grid-auto-flow: column">
+<p align="center"><img alt="Kompi Web" width="600px"  src="./src/kompi.png"></p>
+<tr>
+<td>
 
-<div style="width: 33%; ;display:grid; justify-items:center">
-  <img alt="Kompi web" width="50px" height="60px" src="./src/Icono_logo.svg" />
+[<img align="left" alt="Kompi web" width="50px" height="60px" src="./src/Icono_logo.svg" />][kompi]
 
-  <h4> <a href="https://adoptaunkompi.com" target="_blank"><code style='color:#F8CF34'>Kompi - Website</code></a> </h4>
-  <details style='max-width: 20vw'>
+</td>
+<td > <h4 align="left"> <a href="https://adoptaunkompi.com" target="_blank"><code style='color:#F8CF34'>Kompi - Website</code></a> </h4>
+  <details>
     <summary style='color: #34F8CF'>See more...</summary>
 
     A website where you can find your pet for adoption.
     HTML5, CSS3, JS, Vue3.
 
-  </details>
-</div>
-<div style="height: 33%; display:grid; justify-items:center">
-<p><img alt="pokemon card" width="50px" height="60px" src="./src/mew.gif" /></p>
+  </details> </td>
+</tr>
+<br><br>
+<tr>
+<td>
 
-<h4> <a href="https://github.com/alexxispn/pokeapi-card" target="_blank"><code style='color:#F8CF34'>Pokeapi-Card</code></a> </h4>
-  <details align="center">
+<img align="left" alt="pokemon card" width="50px" height="60px" src="./src/mew.gif" />
+
+</td>
+<td> <h4 align="left"> <a href="https://github.com/alexxispn/pokeapi-card" target="_blank"><code style='color:#F8CF34'>Pokeapi-Card</code></a> </h4>
+  <details>
     <summary style='color: #34F8CF'>See more...</summary>
 
     A card with the stats of all pokemon from kanto.
     HTML5, CSS3, JS.
 
-  </details>
-</div>
-<div style="height: 33%;display:grid; justify-items:center">
-<img alt="Music Player" width="50px" height="60px" src="./src/cat-music.gif" />
+  </details> </td>
+</tr>
+<br><br>
+<tr>
+<td>
 
-<h4> <a href="https://github.com/alexxispn/music-player" target="_blank"><code style='color:#F8CF34'>Music-Player</code></a> </h4>
+<img align="left" alt="Music Player" width="50px" height="60px" src="./src/cat-music.gif" />
+
+</td>
+<td> <h4 align="left"> <a href="https://github.com/alexxispn/music-player" target="_blank"><code style='color:#F8CF34'>Music-Player</code></a> </h4>
   <details>
     <summary style='color: #34F8CF'>See more...</summary>
 
     A music player.
     HTML5, CSS3, JS.
 
-  </details>
-</div>
-</div>
-<section>
+  </details> </td>
+</tr>
+
+
 
 <br />
 <br />

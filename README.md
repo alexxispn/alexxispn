@@ -33,11 +33,10 @@
 <h3 align="center" style='color:#7434F8' ><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Project</h3>
 <br>
 <img align="right" alt="Kompi Web" width="220px"  src="./src/kompi-mobile.png"></p>
+
 <tr>
 <td>
-
-[<img align="left" alt="Kompi web" width="60px" height="60px" src="./src/Icono_logo.svg" />][kompi]
-
+[<img align="left" alt="Kompi web" width="60px" height="60px" src="./src/Icono_logo.svg" />][kompi]]
 </td>
 <td > <h4 align="left"> <a href="https://adoptaunkompi.com" target="_blank"><code style='color:#F8CF34'>Kompi - Website</code></a> </h4>
   <details>
@@ -49,13 +48,12 @@
   </details> </td>
 </tr>
 <br><br>
+
 <tr>
 <td>
-
-[<img align="left" alt="pokeapi card" width="60px" height="70px" src="./src/mew.gif" />][pokeapi]
-
+[<img align="left" alt="pokeapi card" width="60px" height="60px" src="./src/mew.gif" />][pokeapi]
 </td>
-<td> <h4 align="left"> <a href="https://github.com/alexxispn/pokeapi-card" target="_blank"><code style='color:#F8CF34'>Pokeapi-Card</code></a> </h4>
+<td > <h4 align="left"> <a href="https://github.com/alexxispn/pokeapi-card" target="_blank"><code style='color:#F8CF34'>Pokeapi-Card</code></a> </h4>
   <details>
     <summary style='color: #34F8CF'>See more...</summary>
 
@@ -65,13 +63,12 @@
   </details> </td>
 </tr>
 <br><br>
+
 <tr>
 <td>
-
 [<img align="left" alt="Music Player" width="60px" height="70px" src="./src/cat-music.gif" />][music]
-
 </td>
-<td> <h4 align="left"> <a href="https://github.com/alexxispn/music-player" target="_blank"><code style='color:#F8CF34'>Music-Player</code></a> </h4>
+<td > <h4 align="left"> <a href="https://github.com/alexxispn/music-player" target="_blank"><code style='color:#F8CF34'>Music-Player</code></a> </h4>
   <details>
     <summary style='color: #34F8CF'>See more...</summary>
 
@@ -80,11 +77,9 @@
 
   </details> </td>
 </tr>
+<br><br>
 
 
-
-<br />
-<br />
 
 ---
 

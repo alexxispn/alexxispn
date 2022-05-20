@@ -44,7 +44,7 @@
   </details> </td>
 <br><br>
 
-[<img align="left" alt="pokeapi card" width="60px" height="80px" src="./src/mew.gif" />][pokeapi]
+[<img align="left" alt="pokeapi card" width="60px" height="60px" src="./src/mew.gif" />][pokeapi]
 <h4 align="left"> <a href="https://github.com/alexxispn/pokeapi-card" target="_blank"><code style='color:#F8CF34'>Pokeapi-Card</code></a> </h4>
   <details>
     <summary style='color: #34F8CF'>See more...</summary>
@@ -55,7 +55,7 @@
   </details>
 <br><br>
 
-[<img align="left" alt="Music Player" width="60px" height="80px" src="./src/cat-music.gif" />][music]
+[<img align="left" alt="Music Player" width="60px" height="60px" src="./src/cat-music.gif" />][music]
 <h4 align="left"> <a href="https://github.com/alexxispn/music-player" target="_blank"><code style='color:#F8CF34'>Music-Player</code></a> </h4>
   <details>
     <summary style='color: #34F8CF'>See more...</summary>

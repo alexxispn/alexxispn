@@ -1,20 +1,21 @@
 <h1 align="center">
-  Alexis Plettener Nguyen👋
+  Alexis Plettener Nguyen 👋
   <br/>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Frontend+Developer+(JS+%26+Vue.Js);Cloud+Administrator+(Azure)" style="max-width: 100%;">
 </h1>
 
+<br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alexis-plettener-nguyen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFE832?style=for-the-badge&logo=linkedin&logoColor=0D1117"></a>
-  <a href="https://www.facebook.com/alexisplettenern/" target="_blank"><img src="https://img.shields.io/badge/Facebook-FFE832?style=for-the-badge&logo=facebook&logoColor=0D1117"></a>
-  <a href="https://www.instagram.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFE832?style=for-the-badge&logo=instagram&logoColor=0D1117"></a>
+  <a href="https://www.linkedin.com/in/alexis-plettener-nguyen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFE832"></a>
+  <a href="https://www.facebook.com/alexisplettenern/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=FFE832"></a>
+  <a href="https://www.instagram.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=FFE832"></a>
 </p>
 
 
 <br/>
 
-<h2 align="center">
+<h2>
 <a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="20px"></a> Latest Project
 </h2>
 
@@ -34,7 +35,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 
 <br />
 
-<p align="center">
+<p>
   <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
 </p>
 

@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alexis Plettener Nguyen <img src="./src/wave.gif" style="max-width:30px">
+  Alexis Plettener Nguyen <img src="./src/wave.gif" style="max-width:30%">
   <br/>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Frontend+Developer+(JS+%26+Vue.Js);Cloud+Administrator+(Azure)" style="max-width: 100%;">
 </h1>
@@ -35,7 +35,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 <br />
 
 <p align="center">
-  <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
+  <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg" style="max-width: 60%"></a>
 </p>
 
 <br/>

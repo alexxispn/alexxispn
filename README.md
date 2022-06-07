@@ -1,117 +1,97 @@
-
-<h1 align="center" style='color:#7434F8'>Hi there, I'm Alexis a Frontend Web Developer  <img src="./src/wave.gif" width="30px"></h1>
-</br>
-
-[![Alexis Linkedin](src/linkedin.png)][linkedin]
-<table align="right">
-<tr>
-<td>
-
-[<img align="left" style='margin:2.1px 0 0 22px' alt="@alexxispn | Linkedin" width="17px" src="./src/icono_linkedin.png" />][linkedin]
-[<img align="left" alt="@alexxispn| Twitter" width="22px" src="./src/icono_twitter.png" />][twitter]
-[<img align="left" alt="@alexxispn | Instagram" width="22px" src="./src/icono_instagram.png" />][instagram]
-[<img align="left" alt="alexxispn | Facebook" width="22px" src="./src/icono_facebook.png" />][facebook]
+<h1 align="center">
+  Alexis Plettener Nguyen <img src="./src/wave.gif" width="30px">
+  <br/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Frontend+Developer+(JS+%26+Vue.Js);Cloud+Administrator+(Azure)" style="max-width: 100%;">
+</h1>
 
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/alexis-plettener-nguyen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-FFE832?style=for-the-badge&logo=linkedin&logoColor=0D1117"></a>
+  <a href="https://www.facebook.com/alexisplettenern/" target="_blank"><img src="https://img.shields.io/badge/Facebook-FFE832?style=for-the-badge&logo=facebook&logoColor=0D1117"></a>
+  <a href="https://www.instagram.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-FFE832?style=for-the-badge&logo=instagram&logoColor=0D1117"></a>
+</p>
+
+
+<br/>
+
+<h2 align="center">
+<a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="20px"></a> Latest Project
+</h2>
+
+<br />
 
 <details>
-  <summary style='color: #34F8CF'>:zap: About me!</summary>
+  <summary>Kompi</summary>
 
-### I am currently developing my skills as a programmer by applying them to real-life projects with a scrum methodology. 💻!!
-- 👾  Passion for innovation
-- 🗒  A believer in learning by doing
-- 🤓  Always in search of improving my interpersonal skills.
+  <br />
+
+ Kompi is a platform designed to connect people looking to adopt pets within the Spanish national territory
+
+ Developed by the Karmic Koala team as a final project of the EOI Front-End Programming and Web Design Course.
+
+HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics
 </details>
 
 <br />
 
----
-<h3 align="center" style='color:#7434F8' ><img src="./src/cabeza.GIF" width="30px" height="30px"> Latest Project</h3>
-<br>
-<img align="right" alt="Kompi Web" width="220px"  src="./src/kompi-mobile.png"></p>
-
-[<img align="left" alt="Kompi web" width="60px" height="60px" src="./src/Icono_logo.svg" />][kompi]
-<h4 align="left"> <a href="https://adoptaunkompi.com" target="_blank"><code style='color:#F8CF34'>Kompi - Website</code></a> </h4>
-  <details>
-    <summary style='color: #34F8CF'>See more...</summary>
-
-    A website where you can find your pet for adoption.
-    HTML5, CSS3, JS, Vue3.
-
-  </details> </td>
-<br><br>
-
-[<img align="left" alt="pokeapi card" width="60px" height="60px" src="./src/mew.gif" />][pokeapi]
-<h4 align="left"> <a href="https://github.com/alexxispn/pokeapi-card" target="_blank"><code style='color:#F8CF34'>Pokeapi-Card</code></a> </h4>
-  <details>
-    <summary style='color: #34F8CF'>See more...</summary>
-
-    A card with the stats of all pokemon from kanto.
-    HTML5, CSS3, JS.
-
-  </details>
-<br><br>
-
-[<img align="left" alt="Music Player" width="60px" height="60px" src="./src/cat-music.gif" />][music]
-<h4 align="left"> <a href="https://github.com/alexxispn/music-player" target="_blank"><code style='color:#F8CF34'>Music-Player</code></a> </h4>
-  <details>
-    <summary style='color: #34F8CF'>See more...</summary>
-
-    A music player.
-    HTML5, CSS3, JS.
-
-  </details>
-<br><br>
-
-
-
----
-
-<h3 align="center" style='color:#7434F8'><img src="./src/0101.GIF" width="25px" height="25px"> Languages and Tools</h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/-linux-F8CF34?logo=linux&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-html5-F8CF34?logo=html5&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-CSS3-F8CF34?logo=CSS3&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-JavaScript-F8CF34?logo=JavaScript&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Vue.js-F8CF34?logo=Vue.js&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Git-F8CF34?logo=Git&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-PostCSS-F8CF34?logo=PostCSS&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Netlify-F8CF34?logo=Netlify&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Bash-F8CF34?logo=GNU%20Bash&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Azure-F8CF34?logo=Microsoft%20Azure&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Google%20Cloud-F8CF34?logo=Google%20Cloud&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Vim-F8CF34?logo=Vim&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Google%20Analytics-F8CF34?logo=Google%20Analytics&logoColor=black&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-Firebase-F8CF34?logo=Firebase&logoColor=black&style=for-the-badge"/>
+  <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
+</p>
 
+<br/>
 
+<h2>📊 Github Stats</h2>
+
+<br/>
+
+<div>
+
+  <div align="center">
+    <a href="#"><img alt="Alexis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexxispn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFE832&icon_color=FFE832" height="200"/></a>
+    <a href="#"><img alt="Alexis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxispn&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFE832&icon_color=FFE832" height="200"/></a>
+    <br/>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+  </div>
+
+  <hr/>
+
+  <div>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexxispn&custom_title=Alexis%20Plettener%20Nguyen's%20Contribution%20Graph&bg_color=0D1117&color=FFE832&line=FFFFFF&point=FFE832&hide_border=true" /></a>
+  </div>
+</div>
+
+<br/>
+
+<h2>⚡ Main Technologies</h2>
+
+<br/>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-FFE832?style=flat-square&logo=linux&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-FFE832?style=flat-square&logo=javascript&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vue.js-FFE832?style=flat-square&logo=vue.js&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-FFE832?style=flat-square&logo=html5&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-FFE832?style=flat-square&logo=css3&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-FFE832?style=flat-square&logo=Node.js&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-FFE832?style=flat-square&logo=Python&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash%20-%23FFE832.svg?style=flat-square&logo=gnu-bash&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-FFE832?style=flat-square&logo=git&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%23FFE832.svg?style=flat-square&logo=github&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-FFE832?style=flat-square&logo=microsoft-azure&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-FFE832?style=flat-square&logo=github&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vim-FFE832?style=flat-square&logo=vim&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google%20Cloud-FFE832?style=flat-square&logo=Google%20Cloud&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google%20Analytics-FFE832?style=flat-square&logo=Google%20Analytics&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Firebase-FFE832?style=flat-square&logo=Firebase&logoColor=0D1117"></a>
 
 </p>
 
----
+<br/>
 
-<h3 align="left" style='color:#7434F8'><img src="./src/estadistica2.gif" width="25px" height="25px"> GitHub Stats</h3>
+<hr/>
 
-<div>
-  <a href="https://github.com/alexxispn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexxispn&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxispn&layout=compact&langs_count=7&theme=radical"/>
-</div>
+<br/>
 
-![Snake animation](https://github.com/alexxispn/alexxispn/blob/output/github-contribution-grid-snake.svg)
-
-
-
-[twitter]: https://twitter.com/alexxispn
-[instagram]: https://www.instagram.com/alexxispn
-[facebook]: https://www.facebook.com/alexisplettenern/
-[linkedin]: https://www.linkedin.com/in/alexis-plettener-nguyen/
-<!-- [youtube]: https://www.youtube.com/c/alexxispn -->
-<!-- [reddit]:https://www.reddit.com/user/alexxispn -->
-
-[kompi]: https://adoptaunkompi.com/
-[pokeapi]: https://github.com/alexxispn/pokeapi-card
-[music]: https://github.com/alexxispn/music-player
+<p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Bitter&duration=3000&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Thank+you!"></a>
+</p>

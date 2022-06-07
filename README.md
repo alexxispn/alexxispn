@@ -20,7 +20,7 @@
 <br />
 
 <details>
-  <summary><a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="16px"></a> Kompi</summary>
+  <summary><a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="16px"></a> Kompi</summary>
 
   <br />
 
@@ -34,7 +34,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 <br />
 
 <p>
-  <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
+  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
 </p>
 
 <br/>

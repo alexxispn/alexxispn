@@ -1,5 +1,5 @@
 <h1 align="center">
-  Alexis Plettener Nguyen <img src="./src/wave.gif" style="max-width:30%">
+  Alexis Plettener Nguyen👋>
   <br/>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Frontend+Developer+(JS+%26+Vue.Js);Cloud+Administrator+(Azure)" style="max-width: 100%;">
 </h1>
@@ -35,7 +35,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
 <br />
 
 <p align="center">
-  <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg" style="max-width: 60%"></a>
+  <a href="adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
 </p>
 
 <br/>
@@ -50,7 +50,7 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
     <a href="#"><img alt="Alexis's Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexxispn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=FFE832&icon_color=FFE832" height="200"/></a>
     <a href="#"><img alt="Alexis's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexxispn&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=FFE832&icon_color=FFE832" height="200"/></a>
     <br/>
-    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
+    <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
   </div>
 
   <hr/>

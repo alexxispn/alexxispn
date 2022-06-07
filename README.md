@@ -1,7 +1,7 @@
 <h1 align="center">
   Alexis Plettener Nguyen 👋
   <br/>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Frontend+Developer+(JS+%26+Vue.Js);Cloud+Administrator+(Azure)" style="max-width: 100%;">
+  <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=FFE832&background=0D1117&center=true&vCenter=true&lines=Frontend+Developer+(JS+%26+Vue.Js);Cloud+Administrator+(Azure)" style="max-width: 100%;"></a>
 </h1>
 
 <br/>

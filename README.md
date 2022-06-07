@@ -15,14 +15,12 @@
 
 <br/>
 
-<h2>
-<a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="20px"></a> Latest Project
-</h2>
+<h2>🖥 Latest Project</h2>
 
 <br />
 
 <details>
-  <summary>Kompi</summary>
+  <summary><a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="16px"> Kompi</a></summary>
 
   <br />
 

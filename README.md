@@ -20,7 +20,7 @@
 <br />
 
 <details>
-  <summary><a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="16px"> Kompi</a></summary>
+  <summary><a href="adoptaunkompi.com" target="_blank"><img src="./src/Icono_logo.svg" width="16px"></a> Kompi</summary>
 
   <br />
 

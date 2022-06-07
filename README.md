@@ -15,7 +15,33 @@
 
 <br/>
 
-<h2>🖥 Latest Project</h2>
+<h2>⚡ Main Technologies</h2>
+
+<br/>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-FFE832?style=flat-square&logo=linux&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-FFE832?style=flat-square&logo=javascript&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vue.js-FFE832?style=flat-square&logo=vue.js&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-HTML5-FFE832?style=flat-square&logo=html5&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-FFE832?style=flat-square&logo=css3&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-FFE832?style=flat-square&logo=Node.js&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-FFE832?style=flat-square&logo=Python&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Bash%20-%23FFE832.svg?style=flat-square&logo=gnu-bash&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-FFE832?style=flat-square&logo=git&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%23FFE832.svg?style=flat-square&logo=github&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-FFE832?style=flat-square&logo=microsoft-azure&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub-FFE832?style=flat-square&logo=github&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Vim-FFE832?style=flat-square&logo=vim&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google%20Cloud-FFE832?style=flat-square&logo=Google%20Cloud&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Google%20Analytics-FFE832?style=flat-square&logo=Google%20Analytics&logoColor=0D1117"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Firebase-FFE832?style=flat-square&logo=Firebase&logoColor=0D1117"></a>
+
+</p>
+
+<br/>
+
+<h2>🖥 Last Project</h2>
 
 <br />
 
@@ -24,7 +50,7 @@
 
   <br />
 
- Kompi is a platform designed to connect people looking to adopt pets within the Spanish national territory
+ Kompi is a platform designed to connect people looking to adopt pets within the Spanish national territory.
 
  Developed by the Karmic Koala team as a final project of the EOI Front-End Programming and Web Design Course.
 
@@ -58,32 +84,6 @@ HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase |
     <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexxispn&custom_title=Alexis%20Plettener%20Nguyen's%20Contribution%20Graph&bg_color=0D1117&color=FFE832&line=FFFFFF&point=FFE832&hide_border=true" /></a>
   </div>
 </div>
-
-<br/>
-
-<h2>⚡ Main Technologies</h2>
-
-<br/>
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-FFE832?style=flat-square&logo=linux&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-FFE832?style=flat-square&logo=javascript&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Vue.js-FFE832?style=flat-square&logo=vue.js&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-HTML5-FFE832?style=flat-square&logo=html5&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-CSS3-FFE832?style=flat-square&logo=css3&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Nodejs-FFE832?style=flat-square&logo=Node.js&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Python-FFE832?style=flat-square&logo=Python&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Bash%20-%23FFE832.svg?style=flat-square&logo=gnu-bash&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-FFE832?style=flat-square&logo=git&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%23FFE832.svg?style=flat-square&logo=github&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-FFE832?style=flat-square&logo=microsoft-azure&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub-FFE832?style=flat-square&logo=github&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Vim-FFE832?style=flat-square&logo=vim&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Google%20Cloud-FFE832?style=flat-square&logo=Google%20Cloud&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Google%20Analytics-FFE832?style=flat-square&logo=Google%20Analytics&logoColor=0D1117"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Firebase-FFE832?style=flat-square&logo=Firebase&logoColor=0D1117"></a>
-
-</p>
 
 <br/>
 

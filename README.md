@@ -20,7 +20,7 @@
 <br/>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-a110e3?stylestyle=for-the-badge&logo=linux&logoColor=0D1117&logoWidth=30"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-a110e3?stylestyle=for-the-badge&logo=linux&logoColor=0D1117&"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-a110e3?stylestyle=for-the-badge&logo=javascript&logoColor=0D1117"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue.js-a110e3?stylestyle=for-the-badge&logo=vue.js&logoColor=0D1117"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-a110e3?stylestyle=for-the-badge&logo=html5&logoColor=0D1117"></a>

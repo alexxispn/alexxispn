@@ -83,8 +83,8 @@
 <div>
 
   <div align="center">
-    <a href="#"><img alt="Alexis's Github Stats" src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api?username=alexxispn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=01010100&title_color=a110e3&icon_color=a110e3" height="200"/></a>
-    <a href="#"><img alt="Alexis's Top Languages" src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=alexxispn&custom_title=Most%20Used%20Languages&layout=compact&theme=react&hide_border=true&bg_color=01010100&title_color=a110e3&icon_color=a110e3&include_forks=true" height="239"/></a>
+    <a href="#"><img alt="Alexis's Github Stats" src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api?username=alexxispn&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=a110e3&icon_color=a110e3" height="200"/></a>
+    <a href="#"><img alt="Alexis's Top Languages" src="https://github-readme-stats-i270cdk5i-florianbussmann.vercel.app/api/top-langs/?username=alexxispn&custom_title=Most%20Used%20Languages&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=a110e3&icon_color=a110e3&include_forks=true" height="239"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
   </div>
@@ -92,7 +92,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexxispn&custom_title=Alexis%20Plettener%20Nguyen's%20Contribution%20Graph&bg_color=01010100&color=a110e3&line=FFFFFF&point=a110e3&hide_border=true" /></a>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexxispn&custom_title=Alexis%20Plettener%20Nguyen's%20Contribution%20Graph&bg_color=0D1117&color=a110e3&line=FFFFFF&point=a110e3&hide_border=true" /></a>
   </div>
 </div>
 

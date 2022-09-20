@@ -54,24 +54,43 @@
 
 <br/>
 
-<h2>Last Project 👾</h2>
+<h2>Last Projects 👾</h2>
 
 <br />
 
-<p><a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/version_primario_logo.svg" width="70px"></a></p>
+<p><a href="https://hayile.netlify.app/" target="_blank"><img src="src/assets/hayile-light.svg" width="150px"></a></p>
 
+🔸 Hayile is a platform where you can find your shortcuts from your favorite apps. You can also create your own shortcuts and share them with the community.
 
-🔸 Kompi is a platform designed to connect people who are looking to adopt pets in Spain.
+🔸 Angular || SASS || Node.js || Express || MongoDB || Heroku || Netlify || Docker
 
-🔸 Developed by Karmic Koala Team as a final project of the EOI Front-End Programming and Web Design Course.
+🔸 [Github Repo Front End](https://github.com/HayileShortcuts/hayile)
 
-🔸 SASS || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics
-
+🔸 [Github Repo Back End](https://github.com/HayileShortcuts/hayile-api)
 
 <br />
 
 <p>
-  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="./src/Web_kompi.jpg"></a>
+  <a href="https://hayile.netlify.app/" target="_blank"><img src="src/assets/hayile-web.jpg"></a>
+</p>
+
+<br />
+
+<p><a href="https://www.adoptaunkompi.com" target="_blank"><img src="src/assets/version_primario_logo.svg" width="70px"></a></p>
+
+
+🔸 Kompi is a platform designed to connect people who are looking to adopt pets in Spain.
+
+🔸 Vue.js || SASS || Node.js || Firebase ||  Netlify || Google Analytics
+
+🔸 [Github Repo Web](https://github.com/buscokompi/web_kompi)
+
+🔸 [Github Repo Landing](https://github.com/buscokompi/landing_kompi)
+
+<br />
+
+<p>
+  <a href="https://www.adoptaunkompi.com" target="_blank"><img src="src/assets/Web_kompi.jpg"></a>
 </p>
 
 <br/>

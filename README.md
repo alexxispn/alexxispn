@@ -27,7 +27,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-a110e3?style=flat&logo=javascript&logoColor=000000"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-a110e3?style=flat&logo=TypeScript&logoColor=000000"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue.js-a110e3?style=flat&logo=vue.js&logoColor=000000"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-AngularJS-a110e3?style=flat&logo=AngularJS&logoColor=000000"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Angular-a110e3?style=flat&logo=Angular&logoColor=000000"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google%20Analytics-a110e3?style=flat&logo=Google%20Analytics&logoColor=000000"></a>
 
 </p>
@@ -65,7 +65,7 @@
 
 🔸 Developed by Karmic Koala Team as a final project of the EOI Front-End Programming and Web Design Course.
 
-🔸 HTML5 || CSS3 || JavaScript || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics
+🔸 SASS || Vue.js || Node.js || Git || Netlify || Firebase || Google Analytics
 
 
 <br />

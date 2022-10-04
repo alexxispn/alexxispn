@@ -81,7 +81,7 @@
 
 🔸 Kompi is a platform designed to connect people who are looking to adopt pets in Spain.
 
-🔸 Vue.js || SASS || Node.js || Firebase ||  Netlify || Google Analytics
+🔸 Vue.js || SASS || Firebase ||  Netlify || Google Analytics
 
 🔸 [Github Repo Web](https://github.com/buscokompi/web_kompi)
 

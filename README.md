@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alexis-plettener-nguyen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=a110e3"></a>
-  <a href="https://www.facebook.com/alexisplettenern/" target="_blank"><img src="https://img.shields.io/badge/Facebook-0D1117?style=for-the-badge&logo=facebook&logoColor=a110e3"></a>
+  <a href="https://twitter.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter&logoColor=a110e3"></a>
   <a href="https://www.instagram.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=a110e3"></a>
 </p>
 

@@ -7,9 +7,9 @@
 <br/>
 
 <p align="center">
+  <a href="mailto:alexisplettener@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/alexis-plettener-nguyen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
   <a href="https://twitter.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter"></a>
-  <a href="https://www.instagram.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram"></a>
 </p>
 
 

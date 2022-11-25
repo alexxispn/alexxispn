@@ -25,7 +25,7 @@
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=TypeScript"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Vue.js-000?style=for-the-badge&logo=vue.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Angular-000?style=for-the-badge&logo=Angular"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Google%20Analytics-000?style=for-the-badge&logo=Google%20Analytics"></a>
 
 </p>

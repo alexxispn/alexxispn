@@ -22,15 +22,13 @@ style="max-width: 100%;"></a>
 <br/>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a> 
-  <a href="#"><img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=NestJS"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Firebase-000?style=for-the-badge&logo=Firebase"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=Jest"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Testing%20Library-000?
-style=for-the-badge&logo=Testing%20Library"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=Ansible"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-000?style=for-the-badge&logo=microsoft-azure"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=GitHub%20Actions"></a>
 
 </p>
 <p align="center">
@@ -41,18 +39,21 @@ style=for-the-badge&logo=Testing%20Library"></a>
   <a href="#"><img src="https://img.shields.io/badge/-SASS-000?style=for-the-badge&logo=Sass"></a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=Cypress"></a>
 
 </p>
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/-Linux-000?style=for-the-badge&logo=linux&"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU%20Bash"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Docker-000?style=for-the-badge&logo=Docker"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Ansible-000?style=for-the-badge&logo=Ansible"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-000?style=for-the-badge&logo=microsoft-azure"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-GitHub%20Actions-000?style=for-the-badge&logo=GitHub%20Actions"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python"></a> 
+  <a href="#"><img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=Node.js"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Express-000?style=for-the-badge&logo=Express"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-NestJS-000?style=for-the-badge&logo=NestJS"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL"></a>
 
+</p>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Jest-000?style=for-the-badge&logo=Jest"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Cypress-000?style=for-the-badge&logo=Cypress"></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Testing%20Library-000?style=for-the-badge&logo=Testing%20Library"></a>
 </p>
 
 <br/>

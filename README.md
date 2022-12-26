@@ -1,9 +1,7 @@
 <h1 align="center">
   Alexis Plettener Nguyen 👋
   <br/>
-  <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?
-font=Bitter&color=a110e3&background=01010100&center=true&vCenter=true&lines=Software+Engineer;
-Full-Stack+Developer;Cloud+Administrator" 
+  <a href="#"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Bitter&color=a110e3&background=01010100&center=true&vCenter=true&lines=Software+Engineer;Full-Stack+Developer;Cloud+Administrator" 
 style="max-width: 100%;"></a>
 </h1>
 

@@ -10,8 +10,7 @@ style="max-width: 100%;"></a>
 <p align="center">
   <a href="mailto:alexisplettener@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/alexis-plettener-nguyen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://twitter.com/alexxispn" target="_blank"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=twitter"></a>
-  <a target="_blank" download="./src/assets/Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
+  <a href="./src/assets/Resume.pdf" target="_blank" download="Resume.pdf"><img src="https://img.shields.io/badge/-Resume-0D1117?style=for-the-badge&logo=Revolt.chat"></a>
 
 
 <br/>

@@ -109,11 +109,13 @@ style="max-width: 100%;"></a>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </i>
   </div>
 
-  <hr/>
+[//]: # (  <hr/>)
 
-  <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexxispn&custom_title=Alexis%20Plettener%20Nguyen's%20Contribution%20Graph&bg_color=0D1117&color=a110e3&line=FFFFFF&point=a110e3&hide_border=true" /></a>
-  </div>
+[//]: # (  <div>)
+
+[//]: # (    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alexxispn&custom_title=Alexis%20Plettener%20Nguyen's%20Contribution%20Graph&bg_color=0D1117&color=a110e3&line=FFFFFF&point=a110e3&hide_border=true" /></a>)
+
+[//]: # (  </div>)
 </div>
 
 <br/>

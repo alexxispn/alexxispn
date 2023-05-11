@@ -55,13 +55,34 @@ style="max-width: 100%;"></a>
 
 <br/>
 
-<h2>Last Projects 👾</h2>
+<h2>Recent Projects 👾</h2>
 
 <br />
 
+<p><a href="https://github.com/TheTributeCommunity/fesbal-general" target="_blank"><img src="src/assets/fesbal.svg" 
+width="80px"></a></p>
+
+🔸 Collaborated with The Agile Monkeys to develop a web application for FESBAL, an NGO distributing food to people in
+delicate situations in Spain, serving both entities and beneficiaries of the organization.
+
+🔸 React || TypeScript || Tailwind || Redux Toolkit || Booster || GraphQL
+
+🔸 <a href="https://github.com/TheTributeCommunity/fesbal-frontend" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20Frontend-0D1117?style=for-the-badge&logo=GitHub"></a>
+
+🔸 <a href="https://github.com/TheTributeCommunity/fesbal-backend" target="_blank"><img src="https://img.shields.io/badge/-GitHub%20Backend-0D1117?style=for-the-badge&logo=GitHub"></a>
+
+<br />
+
+<p>
+  <a href="https://github.com/TheTributeCommunity/fesbal-general" target="_blank"><img src="src/assets/fesbal-responsive.jpg"></a>
+</p>
+
+<br/>
+
 <p><a href="https://hayile.netlify.app/" target="_blank"><img src="src/assets/hayile-dark.svg" width="150px"></a></p>
 
-🔸 Hayile is a platform where you can find your shortcuts from your favorite apps. You can also create your own shortcuts and share them with the community.
+🔸 Hayile is a platform where you can find your shortcuts from your favorite apps. You can also create your own shortcuts
+and share them with the community.
 
 🔸 Angular || SASS || Node.js || Express || MongoDB || Heroku || Netlify || Docker
 
